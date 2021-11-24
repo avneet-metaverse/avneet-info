@@ -200,7 +200,7 @@ a.closeheader:hover {
 	display: none;
 }
 
-@media screen and (max-width: 1520px) { 
+@media screen and (max-width: 1520px) {
 	.headline > div {
 		max-width: 1200px;
 	}
@@ -222,7 +222,7 @@ a.closeheader:hover {
 	}
 }
 
-@media screen and (max-width: 1220px) { 
+@media screen and (max-width: 1220px) {
 	.description p {
 		display: none;
 	}
@@ -240,7 +240,7 @@ a.closeheader:hover {
 	}
 }
 
-@media screen and (max-width: 860px) { 
+@media screen and (max-width: 860px) {
 	#devices {
 		display: none;
 	}
@@ -258,7 +258,7 @@ a.closeheader:hover {
 	}
 }
 
-@media screen and (max-width: 600px) { 
+@media screen and (max-width: 600px) {
 	.headline > div {
 		max-width: 300px;
 	}
@@ -285,31 +285,3 @@ a.closeheader:hover {
 	}
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
