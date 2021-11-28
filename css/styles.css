@@ -123,7 +123,7 @@ a {
 	transition: all 0.2s linear;
 }
 a:hover {
-	color: #000;
+	color: #2660ff;
 	text-decoration: none;
 }
 .btn {
@@ -205,44 +205,50 @@ h2, .h2 {
 .thumbnailtwitter {
   background: transparent;
   margin-left: 0px;
-	width: auto;
-  height: 20px;
-  display:inline-flex;
+	width: 24px;
+  height: 24px;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .thumbnaileth {
   background: transparent;
   margin-left: 0px;
-	width: auto;
-  height: 24px;
-  display:inline-flex;
+	width: 18px;
+  height: 18px;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .thumbnailtez {
   background: transparent;
-  margin-left: 4px;
-	width: auto;
-  height: 22px;
-  display:inline-flex;
+  margin-left: 0px;
+	width: 18px;
+  height: 18px;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .thumbnailsol {
   background: transparent;
   margin-left: 0px;
-	width: auto;
+	width: 24px;
   height: 24px;
-  display:inline-flex;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .thumbnailens {
   background: transparent;
-  margin-left: -12px;
-	width: auto;
+  margin-left: 0px;
+	width: 16px;
   height: 16px;
-  display:inline-flex;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .thumbnailgit {
   background: transparent;
   margin-right: 0px;
-	width: auto;
-  height: 24px;
-  display:inline-flex;
+	width: 20px;
+  height: 20px;
+  display:inline-block;
+  margin-bottom: 5px;
 }
 .wrapper {
 	margin: 0 auto;
